@@ -1,0 +1,15 @@
+/* src/components/Box.css */
+
+.box {
+    width: 200px;
+    height:200px;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #2980b9;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
